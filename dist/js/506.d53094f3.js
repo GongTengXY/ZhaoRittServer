@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhmtoutiao"]=self["webpackChunkhmtoutiao"]||[]).push([[506],{2506:function(t,u,e){e.r(u),e.d(u,{default:function(){return o}});var n=function(){var t=this,u=t.$createElement,e=t._self._c||u;return e("div",[t._v(" 收藏 ")])},l=[],r={},a=r,c=e(1001),i=(0,c.Z)(a,n,l,!1,null,null,null),o=i.exports}}]);
+//# sourceMappingURL=506.d53094f3.js.map
